@@ -1,6 +1,6 @@
 # ✍️ JAVASCRIPT : QUIZ EFFECT
 
-
+![quiz01](https://github.com/YeoDaSeul4355/QuizEffect/assets/125419623/81d5e5f6-c848-4ba7-853d-8821fe58f03a)
 
 <br><br>
 
@@ -40,3 +40,4 @@
 
 <br><br>
 ## 📸 다른 페이지
+![quiz02](https://github.com/YeoDaSeul4355/QuizEffect/assets/125419623/c2279e36-8148-4877-b623-7a3914377bac)
